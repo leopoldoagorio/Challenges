@@ -21,5 +21,5 @@ Tarea de fine tuning de un modelo de lenguaje pre-entrenado para responder pregu
 ## Challenge 4 - Plant Seedlings Classification (Kaggle Plant Seedlings Classification)
 Tarea de clasificación de imágenes de plantas basada en [este challenge de kaggle](https://www.kaggle.com/c/plant-seedlings-classification). El objetivo es entrenar un modelo de clasificación de imágenes para identificar 12 especies de plantas. Esta parte de la prueba se encuentra en el archivo [PlantSeedlings.ipynb](./4%20-%20Kaggle%20Plant%20Seedlings%20Classification/PlantSeedlings.ipynb).
 
-## Challenge 5 - RNN on Apple Stock Prices (Kaggle Apple Stock Prices)
-Tarea de predicción de series de tiempo basada en [este challenge de kaggle](https://www.kaggle.com/code/ramjasmaurya/apple-stock-price-prediction-using-lstm). El objetivo es entrenar un modelo de redes neuronales recurrentes para predecir el precio de las acciones de Apple. Esta parte de la prueba se encuentra en el archivo [AppleStock.ipynb](./5%20-%20Kaggle%20Apple%20Stock%20Prices/AppleStock.ipynb).
+## Challenge 5 - RNN on Apple Stock Prices (GithubIo Apple Stock Prices)
+Tarea de predicción de series de tiempo basada en [este challenge de kaggle](https://datafiction.github.io/docs/dl/rnn/RNN_project/). El objetivo es entrenar un modelo de redes neuronales recurrentes para predecir el precio de las acciones de Apple. Esta parte de la prueba se encuentra en el archivo [AppleStock.ipynb](./5%20-%20Kaggle%20Apple%20Stock%20Prices/AppleStock.ipynb).
