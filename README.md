@@ -25,4 +25,7 @@ Tarea de clasificación de imágenes de plantas basada en [este challenge de kag
 Tarea de predicción de series de tiempo basada en [este blog "NanoDegree"](https://datafiction.github.io/docs/dl/rnn/RNN_project/). El objetivo es entrenar un modelo de redes neuronales recurrentes para predecir el precio de las acciones de Apple. Esta parte de la prueba se encuentra en el archivo [AppleStock.ipynb](./5%20-%20Kaggle%20Apple%20Stock%20Prices/AppleStock.ipynb).
 
 ## Challenge 99 - Varios challenges menores de prueba de concepto
-Tareas de prueba de concepto de diversos temas como FastAPI, Optimización, etc. Esta parte de la prueba se encuentra en la carpeta [99 - Varios](./99%20-%20Varios).
+Tareas de prueba de concepto de diversos temas como FastAPI, O(n), y otros tópicos generales de programación. Esta parte de la prueba se encuentra en la carpeta [99 - Varios](./99%20-%20Varios).
+
+## Licencia
+Este proyecto está bajo la licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles. Siéntete libre de utilizar el código y los datos para tus propios proyectos.
